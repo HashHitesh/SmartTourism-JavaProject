@@ -6,7 +6,11 @@ The Smart Tourism system is designed in such a way that a tourist arriving at a 
 
 
 This Smart Tourism encompasses different managements such as:
+
 -Tourist Hotspot
+
 -Tourist Hotel Management
+
 -Restaurant Management
+
 -Transport
